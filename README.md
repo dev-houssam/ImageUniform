@@ -1048,9 +1048,13 @@ Certaines parties du projet original ne sont plus disponibles et ne sont donc pa
 **Projet universitaire — Uniformisation d'images**
 
 **Langage :** C
+
 **Durée pédagogique :** environ 20 heures
+
 **Outils :** GCC, GDB, GitLab, GTK, GLib
+
 **Structures principales :** Image, Zpixel, arbre
+
 **Thématiques :** traitement d'image, mémoire, structures de données, tests et IHM.
 
 ---
