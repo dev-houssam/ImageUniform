@@ -1057,6 +1057,12 @@ Certaines parties du projet original ne sont plus disponibles et ne sont donc pa
 
 **Thématiques :** traitement d'image, mémoire, structures de données, tests et IHM.
 
+**Gestion de Version :** Git/GitLab, puis GitHub.
+
+**Gestion de Projet :** Trello, Modélisation UML.
+
+**Documentation :** Doxigen.
+
 ---
 
 ## Auteur
